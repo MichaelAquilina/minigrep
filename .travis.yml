@@ -3,4 +3,4 @@ rust:
   - stable
 
 script:
-  - ./test_all.sh
+  - cargo test
